@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AmirH32
 - 👀 I’m interested in javascript, html, css, python, linux, complete webdevelopment and databases.
 - 🌱 I’m currently learning html and css.
-- 💞️ I’m looking to collaborate on (unsure)
+- 💞️ I’m looking to collaborate on anything to do with website development both backend and frontend.
 - 📫 How to reach me:  discord - A_RTZ#1752
 
 <!---
