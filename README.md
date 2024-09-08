@@ -2,7 +2,7 @@
 - 👀 I’m interested in cybersecurity/machine learning.
 - 🌱 I’m currently studying.
 - 💞️ I’m looking to collaborate on anything.
-- 📫 How to reach me:  discord - A_RTZ#1752
+- 📫 How to reach me: https://www.linkedin.com/in/amir-h-415286214/
 
 <!---
 AmirH32/AmirH32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
