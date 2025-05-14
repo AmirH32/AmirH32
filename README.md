@@ -1,5 +1,3 @@
-### The CIA glow in the dark
-
 # Currently Learning
 - How to be a 1337 H4x0r
 - Force push and pray
